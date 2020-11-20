@@ -1,0 +1,92 @@
+[
+  {
+    "Id": "156fdcdc-aadd-4bd2-83d5-5eda323b974e",
+    "CreatedAt": "01/01/0001 00:00:00",
+    "ExpirationAt": "10/18/2020 14:24:46",
+    "Name": "Torreznos",
+    "ProductType": "Food",
+    "Stock": "3",
+    "UpdatedAt": "11/19/2020 13:58:59"
+  },
+  {
+    "Id": "08cc1ed3-72bf-4448-8870-b2811056bd33",
+    "CreatedAt": "01/01/0001 00:00:00",
+    "ExpirationAt": "01/18/2021 14:24:46",
+    "Name": "Cocacola",
+    "ProductType": "Drink",
+    "Stock": "10",
+    "UpdatedAt": "11/19/2020 13:57:27"
+  },
+  {
+    "Id": "2543b0d8-886a-43a7-a580-9c624a43da33",
+    "CreatedAt": "01/01/0001 00:00:00",
+    "ExpirationAt": "",
+    "Name": "Lejia",
+    "ProductType": "Cleaning",
+    "Stock": "2",
+    "UpdatedAt": ""
+  },
+  {
+    "Id": "8b7db4a1-3f29-4b71-b8df-b712410799eb",
+    "CreatedAt": "01/01/0001 00:00:00",
+    "ExpirationAt": "",
+    "Name": "Estropajo",
+    "ProductType": "Cleaning",
+    "Stock": "5",
+    "UpdatedAt": ""
+  },
+  {
+    "Id": "79a6ac62-8598-4466-b74f-1617294166e2",
+    "CreatedAt": "01/01/0001 00:00:00",
+    "ExpirationAt": "02/01/2021 14:20:00",
+    "Name": "Chorizo iberico",
+    "ProductType": "Food",
+    "Stock": "12",
+    "UpdatedAt": ""
+  },
+  {
+    "Id": "95a02335-ba32-480d-a78d-c28ae70d7dd8",
+    "CreatedAt": "01/01/0001 00:00:00",
+    "ExpirationAt": "02/01/2022 14:20:00",
+    "Name": "Four Roses",
+    "ProductType": "Drink",
+    "Stock": "9",
+    "UpdatedAt": ""
+  },
+  {
+    "Id": "3136265b-a88d-4398-b56b-350868128414",
+    "CreatedAt": "01/01/0001 00:00:00",
+    "ExpirationAt": "",
+    "Name": "Detergente",
+    "ProductType": "Cleaning",
+    "Stock": "32",
+    "UpdatedAt": ""
+  },
+  {
+    "Id": "c0851f8e-c8e6-430d-af8d-c66c60e3955b",
+    "CreatedAt": "01/01/0001 00:00:00",
+    "ExpirationAt": "10/18/2020 14:24:46",
+    "Name": "Patatas fritas",
+    "ProductType": "Food",
+    "Stock": "20",
+    "UpdatedAt": ""
+  },
+  {
+    "Id": "f7777964-1b1e-4d1f-be67-a9e0f8d151a1",
+    "CreatedAt": "11/18/2020 18:22:55",
+    "ExpirationAt": "09/18/2020 14:24:46",
+    "Name": "Fideos",
+    "ProductType": "Food",
+    "Stock": "10",
+    "UpdatedAt": ""
+  },
+  {
+    "Id": "df8ed3ca-efe6-48d6-aa0c-160bbde23eb7",
+    "CreatedAt": "11/19/2020 13:59:59",
+    "ExpirationAt": "09/18/2020 14:24:46",
+    "Name": "Pimientos",
+    "ProductType": "Food",
+    "Stock": "10",
+    "UpdatedAt": ""
+  }
+]

@@ -1,0 +1,18 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="FluentValidation.AspNetCore" Version="9.3.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Domain.Crosscutting.MessageBroker\Domain.Crosscutting.MessageBroker.csproj" />
+    <ProjectReference Include="..\Domain.Crosscutting.Repository\Domain.Crosscutting.Repository.csproj" />
+    <ProjectReference Include="..\Domain.Crosscutting\Domain.Crosscutting.csproj" />
+    <ProjectReference Include="..\Storehouse.Domain.Contracts\Storehouse.Domain.Contracts.csproj" />
+  </ItemGroup>
+
+</Project>
